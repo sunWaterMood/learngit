@@ -1,4 +1,3 @@
 
 sssssssssssssssssssssssssssssss
-Creating a new branch is quick AND simple.s
->>>>>>> fa
+Creating a new branch is quick AND simple.ssssssss
